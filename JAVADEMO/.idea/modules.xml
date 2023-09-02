@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EvenOddByMultithreading/EvenOddByMultithreading.iml" filepath="$PROJECT_DIR$/../EvenOddByMultithreading/EvenOddByMultithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FindingNthlargestNumber/FindingNthlargestNumber.iml" filepath="$PROJECT_DIR$/../FindingNthlargestNumber/FindingNthlargestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JAVA8/JAVA8.iml" filepath="$PROJECT_DIR$/../JAVA8/JAVA8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVADEMO.iml" filepath="$PROJECT_DIR$/JAVADEMO.iml" />
+    </modules>
+  </component>
+</project>
